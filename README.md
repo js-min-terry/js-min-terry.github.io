@@ -4,7 +4,7 @@
 > and the search posts using [Super Search](https://github.com/chinchang/super-search)
 
 ### Demo
-* [https://agusmakmun.github.io](https://agusmakmun.github.io)
+* [https://js-min-terry.github.io](https://js-min-terry.github.io)
 
 #### Features
 
@@ -23,7 +23,7 @@
 
 #### Screenshot
 
-![Screenshot Post Page](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
+![Screenshot Post Page](https://raw.githubusercontent.com/js-min-terry/js-min-terry.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
 
 ### Install & Configuration
 
@@ -84,4 +84,4 @@ bundle exec jekyll serve
 
 ### Contributing
 
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+Feel free to [open a bug](https://github.com/js-min-terry/js-min-terry.github.io/issues) or [contribute to code](https://github.com/js-min-terry/js-min-terry.github.io/pulls)!
