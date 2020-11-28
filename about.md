@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Kotlin & Java. I've made quite a few web apps, especially on Spring framework. Now, I am working more on solving finance problems.
+Kotlin & Java 프로그래머 입니다. Spring framework 기반으로 많은 웹 앱을 만들었습니다. 지금은 금융 문제를 해결하는데 집중하고 있습니다.
 
 email: terry-js-min[at]gmail.com

@@ -73,6 +73,13 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 ```
 bundle install
 jekyll serve
+
+
+위처럼 하다가 잘 안되면
+Gemfile.lock 삭제
+bundle install
+bundle exec jekyll serve
+
 ```
 
 ### Contributing
