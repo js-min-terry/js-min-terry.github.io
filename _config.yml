@@ -2,7 +2,7 @@ title: Terry의 개발지향 블로그
 description: 포스트 10개 이상 올라가 있으면 성공한 블로그
 author: js-min-terry
 github: https://github.com/js-min-terry
-about: I'm Programmer for Kotlin & Java.
+about: Kotlin & Java 프로그래머 입니다. Spring Framework 기반으로 p2p, 인터넷 은행 웹 앱을 만들었습니다. 지금은 금융 문제를 해결하는데 집중하고 있습니다.
 disqus_shortname: 개발지향블로그
 google_analytics: UA-XXXXXXXX-Y
 
@@ -44,7 +44,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
